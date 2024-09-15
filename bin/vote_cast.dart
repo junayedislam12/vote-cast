@@ -34,5 +34,5 @@ Map<String, Object> person() {
 
 main() {
   Map<String, Object> values = person();
-  print(values['age'].runtimeType);
+  print(values);
 }
